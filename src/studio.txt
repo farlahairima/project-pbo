@@ -1,0 +1,3 @@
+2|1|Regular|Ciputra|50000.0
+1000|1|Regular|Ciputra|50000.0
+2900|8|Premiere|Lippo|90000.0

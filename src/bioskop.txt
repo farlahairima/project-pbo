@@ -1,0 +1,3 @@
+1000|Ciputra|Tanjung Duren
+1001|Lippo|Jakarta
+1002|Hollywood XXI|Gatot Subroto

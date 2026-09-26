@@ -1,0 +1,4 @@
+Admin Utama|admin@bioskop.com|admin123|Admin
+sky|skywong@gmail.com|wongsky|Pelanggan
+khal|jdskjd|123|Pelanggan
+tee|teeradech@gmail.com|teeratee|Pelanggan
